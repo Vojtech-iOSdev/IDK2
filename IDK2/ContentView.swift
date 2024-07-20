@@ -14,6 +14,7 @@ struct ContentView: View {
                 .imageScale(.large)
                 .foregroundStyle(.tint)
             Text("Hello, dog friends!").bold()
+            Text("I hope u had a great day so far :)").fontWeight(.light)
         }
         .padding()
     }
